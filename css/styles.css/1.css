@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+.web{
+  font-size: 30px;
+}
+h1{
+  font-size:90px;
+ font-family: 'Sacramento', cursive;
+}
+.e{
+  position: absolute;
+  right:300px;
+  top: 50px;
+}
+.first{
+  background-color: #345B63;
+  position: relative;
+  padding-top: 50px;
+}
+
+
+.d{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.p{
+  height: 200px;
+}
+.second{
+  background-color: brown;
+}
+.contact-me{
+  background-color: lightgreen;
+}
+.third{
+  background-color: lightgreen;
+}
